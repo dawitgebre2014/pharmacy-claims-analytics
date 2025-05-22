@@ -29,3 +29,4 @@ This project demonstrates an end-to-end data analytics workflow on synthetic pha
 1. Clone the repository or download the files
 2. Open `claims_analysis.ipynb` in Jupyter
 3. Run the notebook to explore cost and adherence trends
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dawitgebre2014/pharmacy-claims-analytics/blob/main/claims_analysis.ipynb)
